@@ -68,7 +68,7 @@ http://root:1234@192.168.18.72:8001/1:0:19:7824:428:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30904" tvg-logo="http://root:1234@192.168.18.72/images/default_picon.png" tvg-id="1:0:19:78B8:3EC:1:C00000:0:0:0:" tvg-name="COSMO HD",COSMO HD
 #EXTVLCOPT:program=30904
 http://root:1234@192.168.18.72:8001/1:0:19:78B8:3EC:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="29853" tvg-logo="http://root:1234@192.168.18.72/images/default_picon.png" tvg-id="1:0:1:749D:41C:1:C00000:0:0:0:" tvg-name="M. Fest",M. Fest
+#EXTINF:-1 tvg-chno="29853" tvg-logo="http://root:1234@192.168.18.72/images/default_picon.png" tvg-id="1:0:1:749D:41C:1:C00000:0:0:0:" tvg-name="M. Crimen",M. Crimen
 #EXTVLCOPT:program=29853
 http://root:1234@192.168.18.72:8001/1:0:1:749D:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30003" tvg-logo="http://root:1234@192.168.18.72/images/default_picon.png" tvg-id="1:0:19:7533:426:1:C00000:0:0:0:" tvg-name="AMC HD",AMC HD
@@ -629,7 +629,7 @@ http://root:1234@192.168.18.72:8001/1:0:1:778F:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30516" tvg-logo="http://root:1234@192.168.18.72/images/default_picon.png" tvg-id="1:0:1:7734:416:1:C00000:0:0:0:" tvg-name="#VAMOS",#VAMOS
 #EXTVLCOPT:program=30516
 http://root:1234@192.168.18.72:8001/1:0:1:7734:416:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="29860" tvg-logo="http://root:1234@192.168.18.72/images/default_picon.png" tvg-id="1:0:1:74A4:41C:1:C00000:0:0:0:" tvg-name="M.FORMULA1",M.FORMULA1
+#EXTINF:-1 tvg-chno="29860" tvg-logo="http://root:1234@192.168.18.72/images/default_picon.png" tvg-id="1:0:1:74A4:41C:1:C00000:0:0:0:" tvg-name="M.Fórmula12020",M.Fórmula12020
 #EXTVLCOPT:program=29860
 http://root:1234@192.168.18.72:8001/1:0:1:74A4:41C:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30601" tvg-logo="http://root:1234@192.168.18.72/images/default_picon.png" tvg-id="1:0:1:7789:424:1:C00000:0:0:0:" tvg-name="M. GOLF",M. GOLF
