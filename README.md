@@ -662,7 +662,7 @@ http://root:1234@192.168.18.72:8001/1:0:1:7797:424:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30074" tvg-logo="http://root:1234@192.168.18.72/images/default_picon.png" tvg-id="1:0:1:757A:412:1:C00000:0:0:0:" tvg-name="11097V SID 0x757a",11097V SID 0x757a
 #EXTVLCOPT:program=30074
 http://root:1234@192.168.18.72:8001/1:0:1:757A:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30367" tvg-logo="http://root:1234@192.168.18.72/images/default_picon.png" tvg-id="1:0:1:769F:41E:1:C00000:0:0:0:" tvg-name="M.LCAMPEON2",M.LCAMPEON2
+#EXTINF:-1 tvg-chno="30367" tvg-logo="http://root:1234@192.168.18.72/images/default_picon.png" tvg-id="1:0:1:769F:41E:1:C00000:0:0:0:" tvg-name="10788V SID 0x769f",10788V SID 0x769f
 #EXTVLCOPT:program=30367
 http://root:1234@192.168.18.72:8001/1:0:1:769F:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30173" tvg-logo="http://root:1234@192.168.18.72/images/default_picon.png" tvg-id="1:0:1:75DD:422:1:C00000:0:0:0:" tvg-name="TEST TÉCNICO",TEST TÉCNICO
@@ -680,7 +680,7 @@ http://root:1234@192.168.18.72:8001/1:0:1:756B:412:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30080" tvg-logo="http://root:1234@192.168.18.72/images/default_picon.png" tvg-id="1:0:1:7580:412:1:C00000:0:0:0:" tvg-name="11097V SID 0x7580",11097V SID 0x7580
 #EXTVLCOPT:program=30080
 http://root:1234@192.168.18.72:8001/1:0:1:7580:412:1:C00000:0:0:0:
-#EXTINF:-1 tvg-chno="30364" tvg-logo="http://root:1234@192.168.18.72/images/default_picon.png" tvg-id="1:0:1:769C:41E:1:C00000:0:0:0:" tvg-name="M. LaLiga 3",M. LaLiga 3
+#EXTINF:-1 tvg-chno="30364" tvg-logo="http://root:1234@192.168.18.72/images/default_picon.png" tvg-id="1:0:1:769C:41E:1:C00000:0:0:0:" tvg-name="10788V SID 0x769c",10788V SID 0x769c
 #EXTVLCOPT:program=30364
 http://root:1234@192.168.18.72:8001/1:0:1:769C:41E:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="30198" tvg-logo="http://root:1234@192.168.18.72/images/default_picon.png" tvg-id="1:0:1:75F6:422:1:C00000:0:0:0:" tvg-name="GUÍA FÁCIL",GUÍA FÁCIL
