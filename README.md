@@ -2,9 +2,9 @@
 
 #EXTM3U 
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-chno="30819" tvg-logo="http://root:1234@192.168.18.72/images/default_picon.png" tvg-id="1:0:19:7863:41A:1:C00000:0:0:0:" tvg-name="LA 1 HD",LA 1 HD
+#EXTINF:-1 tvg-chno="30819" tvg-logo="http://root:1234@2.59.92.14/images/default_picon.png" tvg-id="1:0:19:7863:41A:1:C00000:0:0:0:" tvg-name="LA 1 HD",LA 1 HD
 #EXTVLCOPT:program=30819
-http://root:1234@192.168.18.72:8001/1:0:19:7863:41A:1:C00000:0:0:0:
+http://root:1234@2.59.92.14:8001/1:0:19:7863:41A:1:C00000:0:0:0:
 #EXTINF:-1 tvg-chno="29812" tvg-logo="http://root:1234@192.168.18.72/images/default_picon.png" tvg-id="1:0:1:7474:3F0:1:C00000:0:0:0:" tvg-name="LA 2",LA 2
 #EXTVLCOPT:program=29812
 http://root:1234@192.168.18.72:8001/1:0:1:7474:3F0:1:C00000:0:0:0:
